@@ -74,7 +74,7 @@ function draw() {
 
 
   ground.display();
- drawSprites();
+ 
 
  
 }
